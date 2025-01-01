@@ -15,7 +15,7 @@ dart pub global activate webdev
 webdev serve
 ```
 
-![alt text](plotly_example_1.png "Example")
+![alt text](other/plotly_example_1.png "Example")
 
 Look at the code example to get a sense for what is possible.  Not all functionality has been made available.  If there is something in Plotly JS that is not available in Dart, please submit a PR. 
 
